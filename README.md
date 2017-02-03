@@ -1,3 +1,3 @@
 # Hangman
 Full Java Package of the word puzzle game Hangman that could "cheat"
-[!Hangman Screenshot](hangman.png)
+[Hangman Screenshot!](hangman.png)
